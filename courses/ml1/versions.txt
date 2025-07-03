@@ -1,0 +1,16 @@
+conda create --prefix C:\pathfiles\fastml python=3.6 -y
+conda init
+conda activate C:\pathfiles\fastml
+
+conda install matplotlib
+conda install bcolz
+conda install scipy
+conda install opencv
+conda install seaborn
+conda install python-graphviz
+pip install sklearn_pandas
+pip install isoweek
+pip install pandas_summary
+conda install ipywidgets
+pip install pyarrow==0.16.0  #
+pip install scikit-learn==0.21.3 ??
