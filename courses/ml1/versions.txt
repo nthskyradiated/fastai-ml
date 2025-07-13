@@ -18,3 +18,6 @@ pip install scikit-learn==0.22.0 ?? need to uninstall earlier versions first bef
 
 conda install -c conda-forge matplotlib bcolz scipy opencv seaborn python-graphviz ipywidgets jupyter_contrib_nbextensions tqdm=4.19.2 cudatoolkit=9.2
 pip3 install sklearn_pandas==1.6.0 isoweek pyarrow==0.16.0 pandas_summary==0.0.5 scikit-learn==0.22.0 torchtext==0.2.3 torchvision==0.1.9
+
+for PyTorch, you would need to install 0.4.1 (Windows).
+https://download.pytorch.org/whl/cu92/torch_stable.html?__hstc=76629258.724dacd2270c1ae797f3a62ecd655d50.1746547368336.1746547368336.1746547368336.1&__hssc=76629258.9.1746547368336&__hsfp=2230748894
