@@ -14,3 +14,7 @@ pip install pandas_summary
 conda install ipywidgets
 pip install pyarrow==0.16.0  #
 pip install scikit-learn==0.22.0 ?? need to uninstall earlier versions first before installing 22.0
+
+
+conda install -c conda-forge matplotlib bcolz scipy opencv seaborn python-graphviz ipywidgets jupyter_contrib_nbextensions tqdm=4.19.2 cudatoolkit=9.2
+pip3 install sklearn_pandas==1.6.0 isoweek pyarrow==0.16.0 pandas_summary==0.0.5 scikit-learn==0.22.0 torchtext==0.2.3 torchvision==0.1.9
